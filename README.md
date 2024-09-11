@@ -1,5 +1,5 @@
 #Lab - 1
 
 
-Test repo
+Test repo for the lab 1
 
